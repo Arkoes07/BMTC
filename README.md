@@ -1,5 +1,6 @@
 # BMTC
-Database System FInal Project 2018: PostgreSQL and PHP BMTC Website.
+### Database System FInal Project 2018: PostgreSQL and PHP BMTC Website.
+<\br>
 <\br>
 Copy command from ./BMTC/sql_command/bmtc.sql to your psql. </br>
 Edit ./BMTC/config.php depends on your psql.</br>
